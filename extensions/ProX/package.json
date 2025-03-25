@@ -1,0 +1,41 @@
+{
+  "name": "prox",
+  "displayName": "ProX",
+  "description": "VS Code extension for ProX programming language",
+  "version": "1.0.0",
+  "publisher": "your-name",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": ["Programming Languages"],
+  "contributes": {
+    "languages": [
+      {
+        "id": "prox",
+        "aliases": ["ProX", "prox"],
+        "extensions": [".prox"],
+        "configuration": "./prox-language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "prox",
+        "scopeName": "source.prox",
+        "path": "./syntaxes/prox.tmLanguage.json"
+      }
+    ],
+    "snippets": [
+      {
+        "language": "prox",
+        "path": "./snippets/prox.json"
+      }
+    ]
+  },
+  "main": "./extension.js",
+  "activationEvents": ["onLanguage:prox"],
+  "scripts": {
+    "vscode:prepublish": "vsce package",
+    "compile": "node extension.js"
+  },
+  "dependencies": {}
+}
