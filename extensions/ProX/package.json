@@ -1,9 +1,9 @@
 {
   "name": "prox",
   "displayName": "ProX",
-  "description": "VS Code extension for ProX programming language",
+  "description": "ProX Code extension for ProX programming language",
   "version": "1.0.0",
-  "publisher": "your-name",
+  "publisher": "ProgrammerKR",
   "engines": {
     "vscode": "^1.80.0"
   },
