@@ -1,0 +1,15 @@
+{
+  "Print": {
+    "prefix": "print",
+    "body": ["print($1)"],
+    "description": "Print statement in ProX"
+  },
+  "Function": {
+    "prefix": "def",
+    "body": [
+      "def ${1:function_name}(${2:args}):",
+      "    $0"
+    ],
+    "description": "Define a function in ProX"
+  }
+}
