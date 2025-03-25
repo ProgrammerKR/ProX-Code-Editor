@@ -1,0 +1,12 @@
+{
+  "Print Statement": {
+    "prefix": "print",
+    "body": ["print($1);"],
+    "description": "Prints text in ProX"
+  },
+  "If Statement": {
+    "prefix": "if",
+    "body": ["if ($1) {", "    $2", "}"],
+    "description": "If statement in ProX"
+  }
+}
