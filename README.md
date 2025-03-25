@@ -8,7 +8,6 @@
   <br>
   
   <!-- Build & Development -->
-  <img src="https://img.shields.io/badge/Built%20with-Python-blue">
   <img src="https://img.shields.io/github/actions/workflow/status/ProgrammerKR/ProX-Code/build.yml">
   <img src="https://img.shields.io/github/languages/code-size/ProgrammerKR/ProX-Code">
   <img src="https://img.shields.io/github/repo-size/ProgrammerKR/ProX-Code">
@@ -29,9 +28,6 @@
   
   <!-- Documentation & Downloads -->
   <img src="https://img.shields.io/badge/Docs-Available-blue">
-  <img src="https://img.shields.io/github/downloads/ProgrammerKR/ProX-Code/total">
-  <img src="https://img.shields.io/pypi/v/prox">
-  <img src="https://img.shields.io/npm/v/prox">
   <br>
   
   <!-- Support & Social -->
