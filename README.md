@@ -1,8 +1,58 @@
 # ProX Code - Code Editor for ProX Programming 
 
-[![Feature Requests](https://img.shields.io/github/issues/ProgrammerKR/ProX-Code/feature-request.svg)](https://github.com/ProgrammerKR/ProX-Code/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
-[![Bugs](https://img.shields.io/github/issues/ProgrammerKR/ProX-Code/bug.svg)](https://github.com/ProgrammerKR/ProX-Code/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
-
+<p align="center">
+  <!-- Project Information -->
+  <img src="https://img.shields.io/badge/ProX-Language-blue">
+  <img src="https://img.shields.io/badge/Version-1.0-brightgreen">
+  <img src="https://img.shields.io/github/license/ProgrammerKR/ProX-Code">
+  <br>
+  
+  <!-- Build & Development -->
+  <img src="https://img.shields.io/badge/Built%20with-Python-blue">
+  <img src="https://img.shields.io/github/actions/workflow/status/ProgrammerKR/ProX-Code/build.yml">
+  <img src="https://img.shields.io/github/languages/code-size/ProgrammerKR/ProX-Code">
+  <img src="https://img.shields.io/github/repo-size/ProgrammerKR/ProX-Code">
+  <br>
+  
+  <!-- Repository Stats -->
+  <img src="https://img.shields.io/github/stars/ProgrammerKR/ProX-Code?style=social">
+  <img src="https://img.shields.io/github/forks/ProgrammerKR/ProX-Code?style=social">
+  <img src="https://img.shields.io/github/issues/ProgrammerKR/ProX-Code">
+  <img src="https://img.shields.io/github/issues-pr/ProgrammerKR/ProX-Code">
+  <br>
+  
+  <!-- Community & Contributions -->
+  <img src="https://img.shields.io/github/contributors/ProgrammerKR/ProX-Code">
+  <img src="https://img.shields.io/github/last-commit/ProgrammerKR/ProX-Code">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen">
+  <br>
+  
+  <!-- Documentation & Downloads -->
+  <img src="https://img.shields.io/badge/Docs-Available-blue">
+  <img src="https://img.shields.io/github/downloads/ProgrammerKR/ProX-Code/total">
+  <img src="https://img.shields.io/pypi/v/prox">
+  <img src="https://img.shields.io/npm/v/prox">
+  <br>
+  
+  <!-- Support & Social -->
+  <img src="https://img.shields.io/github/sponsors/ProgrammerKR">
+  <img src="https://img.shields.io/github/followers/ProgrammerKR?style=social">
+  <br>
+  
+  <!-- Issues & Requests -->
+  <a href="https://github.com/ProgrammerKR/ProX-Code/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc">
+    <img src="https://img.shields.io/github/issues/ProgrammerKR/ProX-Code/feature-request.svg" alt="Feature Requests">
+  </a>
+  <a href="https://github.com/ProgrammerKR/ProX-Code/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug">
+    <img src="https://img.shields.io/github/issues/ProgrammerKR/ProX-Code/bug.svg" alt="Bugs">
+  </a>
+  <br>
+  
+  <!-- GitHub Profile -->
+  <a href="https://github.com/ProgrammerKR">
+    <img src="https://img.shields.io/badge/GitHub-ProgrammerKR-%23ADD8E6?style=flat-square&logo=github" alt="ProgrammerKR GitHub">
+  </a>
+</p>
 
 ## The Repository
 
