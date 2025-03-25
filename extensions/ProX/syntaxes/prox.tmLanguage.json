@@ -1,0 +1,22 @@
+{
+  "scopeName": "source.prox",
+  "name": "ProX",
+  "patterns": [
+    {
+      "match": "\\b(def|class|if|else|while|for|return|import|from|as|try|except)\\b",
+      "name": "keyword.control.prox"
+    },
+    {
+      "match": "\\b(True|False|None)\\b",
+      "name": "constant.language.prox"
+    },
+    {
+      "match": "\".*?\"|'.*?'",
+      "name": "string.quoted.prox"
+    },
+    {
+      "match": "#.*---",
+      "name": "comment.line.prox"
+    }
+  ]
+}
