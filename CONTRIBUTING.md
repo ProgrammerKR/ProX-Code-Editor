@@ -46,7 +46,7 @@ Do not add your issue as a comment to an existing issue unless it's for the iden
 
 The more information you can provide, the more likely someone will be successful at reproducing the issue and finding a fix.
 
-The built-in tool for reporting an issue, which you can access by using `Report Issue` in VS Code's Help menu, can help streamline this process by automatically providing the version of VS Code, all your installed extensions, and your system info. Additionally, the tool will search among existing issues to see if a similar issue already exists.
+The built-in tool for reporting an issue, which you can access by using `Report Issue` in ProX Code's Help menu, can help streamline this process by automatically providing the version of ProX Code, all your installed extensions, and your system info. Additionally, the tool will search among existing issues to see if a similar issue already exists.
 
 Please include the following with each issue:
 
